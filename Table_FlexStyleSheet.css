@@ -1,0 +1,29 @@
+.flex-container{
+    display: inline-flex;
+    border: 1px solid;
+    
+}
+
+.flex-container>div{
+    background-color: lightblue;
+    border: 1px solid;
+    padding: 10px;
+    margin: 20px;
+    
+}
+.flex{
+    display: inline-flex;
+    flex-direction: column;
+
+}
+
+.flex>div{
+    background-color: lightblue;
+    border: 1px solid;
+    padding: 10px;
+    margin: 20px;
+}
+section{
+    
+    border: 1px solid;
+}
