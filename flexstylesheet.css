@@ -1,0 +1,13 @@
+.flex-container{
+    display: flex;
+}
+.inline-flex-container {
+    display: inline-flex;
+}
+
+.bg-red {
+    background-color: red;
+}
+.bg-blue{
+    background-color: aquamarine;
+}
