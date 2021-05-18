@@ -11,3 +11,16 @@
 .bg-blue{
     background-color: aquamarine;
 }
+.flex-container>div{
+    background-color: darkgray;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.inline-flex-container>div{
+    background-color: lightblue;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
