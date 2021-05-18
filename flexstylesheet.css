@@ -1,8 +1,11 @@
 .flex-container{
-    display: flex;
+    display:flex;
+    flex-flow:row wrap;
 }
 .inline-flex-container {
-    display: inline-flex;
+    display:inline-flex;
+    flex-flow:row wrap;
+
 }
 
 .bg-red {
