@@ -1,10 +1,12 @@
 .flex-container{
     display:flex;
     flex-flow:row wrap;
+    justify-content: row;
 }
 .inline-flex-container {
     display:inline-flex;
     flex-flow:row wrap;
+    justify-content: flex-end;
 
 }
 
@@ -26,4 +28,16 @@
     margin: 10px;
     padding: 20px;
     font-size: 30px;
+}
+
+.d1 {
+    order: 1;
+}
+
+.d2 {
+    order: 2;
+}
+
+.d3 {
+    order: 3;
 }
